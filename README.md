@@ -23,7 +23,7 @@ Deadlock ocorre quando duas ou mais transações ficam bloqueadas permanentement
 ## ▶️ Como executar
 
 1. **Pré-requisitos:**  
-   - [Go](https://golang.org/dl/) instalado (versão 1.13 ou superior recomendada). ![Go](https://img.shields.io/badge/Go-1.13%2B-blue?logo=go)
+   - [Go](https://golang.org/dl/) instalado (versão 1.13 ou superior recomendada).
 
 2. **Clone ou baixe este repositório.**
 
